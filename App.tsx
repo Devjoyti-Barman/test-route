@@ -3,7 +3,7 @@ import "./App.css";
 import { Header } from "./components/header/header";
 import { Courses } from "./pages/courses/courses";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { CourseContain } from "./pages/courseContain./courseContain";
+import { CourseContain } from "./pages/courseContain/courseContain";
 
 function App() {
   return (
